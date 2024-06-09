@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280893152424",
+    "project_id": "padchat-4250a",
+    "storage_bucket": "padchat-4250a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280893152424:android:387a2c7da6f5823f71b69d",
+        "android_client_info": {
+          "package_name": "com.example.padchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkTkdDVbuASSGwUiKc-81a3vpLzQU48k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
